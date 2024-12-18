@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinicius Gabriel Zanatta</h1>
 <h3 align="center">Brazilian Coursing Software Engerier</h3>
 
-- 🔭 I’m currently working on [Wicked Botz](http://wickedbotz.com.br/)
+- 🔭 I’m currently working on Neomind
 
 - 🌱 I’m currently learning **Golang,Tailwind,Rust**
 
