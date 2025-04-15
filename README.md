@@ -2,7 +2,7 @@
 <h3 align="center">Brazilian Software Engineering Student</h3>
 
 - 🔭 I’m currently working at **Neomind**
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Next.js**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-zanatta-503570264/)
 
 <h3 align="left">Connect with me:</h3>
