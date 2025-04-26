@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinicius Gabriel Zanatta</h1>
 <h3 align="center">Brazilian Software Engineering Student</h3>
 
-- 🔭 I’m currently working at **Neomind**
+- 🔭 I’m currently working at **BySeven**
 - 🌱 I’m currently learning **Next.js**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-zanatta-503570264/)
 
