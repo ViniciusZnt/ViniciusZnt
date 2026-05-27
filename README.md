@@ -2,7 +2,7 @@
 <h3 align="center">Brazilian Software Engineering Student</h3>
 
 - 🔭 I’m currently working at **BySeven**
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Databricks**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-zanatta-503570264/)
 
 <h3 align="left">Connect with me:</h3>
